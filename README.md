@@ -13,7 +13,7 @@ Interest Areas: Art and Design, Gaming and Interactive, New Technologies, VR/XR,
 
 ### Tentative Schedule
 **Welcome to BoF**, Tomasz and AJ<br />
-**... ...**, AJ<br /> 
+**High Resolution Visualization for Large Format Displays**, Greg Shirau and Kel Elkins (NASA)<br /> 
 **Revealing the Aesthetics of Nature through Immersive Visualization**, Midori Yamazaki (Out of Blue)<br />
 **SESSIONS The Beyond Demoparty**, Tomoki<br />
 **Immersive Digital Twins**, Jack Dahlgren (NVIDIA)<br />
