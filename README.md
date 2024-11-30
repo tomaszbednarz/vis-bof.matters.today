@@ -17,13 +17,13 @@ Interest Areas: Art and Design, Gaming and Interactive, New Technologies, VR/XR,
 **Revealing the Aesthetics of Nature through Immersive Visualization**, Midori Yamazaki (Out of Blue)<br />
 **SESSIONS The Beyond Demoparty**, Tomoki<br />
 **Diving In – Large Scale Data Visualization**, Jack Dahlgren (NVIDIA)<br />
-**Organizing the Cosmos for planetarium productions**, Jon Parker<br />
+**Organizing the Cosmos for planetarium productions**, Jon Parker (Freelance)<br />
 **Panel**<br />
 
 ### Organizers
 
 **Tomasz Bednarz** (NVIDIA, USA)<br />
-**AJ Christensen** (NASA USA)<br />
+**AJ Christensen** (NASA, USA)<br />
 
 For more information, please e-mail:<br />
 [tomasz.bednarz at siggraph.org](mailto:tomasz.bednarz@siggraph.org)
