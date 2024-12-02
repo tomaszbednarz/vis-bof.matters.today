@@ -15,7 +15,7 @@ Interest Areas: Art and Design, Gaming and Interactive, New Technologies, VR/XR,
 **Welcome to BoF**, Tomasz and AJ<br />
 **High Resolution Visualization for Large Format Displays**, Greg Shirah and Kel Elkins (NASA)<br /> 
 **Revealing the Aesthetics of Nature through Immersive Visualization**, Midori Yamazaki (Out of Blue)<br />
-**SESSIONS The Beyond Demoparty**, Tomoki<br />
+**SESSIONS - The Beyond Demoparty**, Tomoki Shishikura (FRONTL1NE)<br />
 **Diving In – Large Scale Data Visualization**, Jack Dahlgren (NVIDIA)<br />
 **Organizing the Cosmos for planetarium productions**, Jon Parker (Freelance)<br />
 **Panel**<br />
