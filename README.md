@@ -1,28 +1,24 @@
-Traditionally (as for the last 10 years), this session is about immersive visualization systems, software, and tools for science, research, scientific visualization, information visualization, art, design and digital twins. Invited speakers and panelists discuss newest initiatives and developments in immersive space as applied to data exploration, scientific disoveries, and more.
+Traditionally (and since 2014), this session is about immersive visualization systems, software, and tools for science, research, scientific visualization, information visualization, art, design and digital twins. Invited speakers and panelists discuss newest initiatives and developments in immersive space as applied to data exploration, scientific discoveries, and more.
 
 ### Time and Location
 
-Thursday, 5 December 2024<br />
-1:00 - 2:00pm JST<br />
+Thursday, 14 August 2025<br />
+8:00 - 9:30am PDT<br />
 
-Location: Room G407, G Block, Level 4
+Location: TBC (check link below)
 
 Interest Areas: Art and Design, Gaming and Interactive, New Technologies, VR/XR, Research and Education
 
-[SIGGRAPH Asia 2024 BoF Link](https://asia.siggraph.org/2024/ja/presentation/?id=bof_108&sess=sess256)
+[SIGGRAPH 2025 BoF Link](https://s2025.conference-schedule.org/presentation/?id=bof_116&sess=sess232)
 
 ### Tentative Schedule
-**Welcome to BoF**, Tomasz and AJ<br />
-**High Resolution Visualization for Large Format Displays**, Greg Shirah and Kel Elkins (NASA)<br /> 
-**Revealing the Aesthetics of Nature through Immersive Visualization**, Midori Yamazaki (Out of Blue)<br />
-**SESSIONS - The Beyond Demoparty**, Tomoki Shishikura (FRONTL1NE)<br />
-**Diving In – Large Scale Data Visualization**, Jack Dahlgren (NVIDIA)<br />
-**Organizing the Cosmos for planetarium productions**, Jon Parker (Freelance)<br />
+**Welcome to BoF**, Tomasz, Bill and AJ<br />
 **Panel**<br />
 
 ### Organizers
 
 **Tomasz Bednarz** (NVIDIA, USA)<br />
+**William Sherman** (NIST, USA)<br />
 **AJ Christensen** (NASA, USA)<br />
 
 For more information, please e-mail:<br />
@@ -43,3 +39,4 @@ For more information, please e-mail:<br />
 [S2023](/s2023.html)
 [SA2023](/sa2023.html)
 [S2024](/s2024.html)
+[SA2024](/sa2024.html)
