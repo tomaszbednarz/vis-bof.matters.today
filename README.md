@@ -13,6 +13,7 @@ Interest Areas: Art and Design, Gaming and Interactive, New Technologies, VR/XR,
 
 ### Tentative Schedule
 **Welcome to BoF**, Tomasz, Bill and AJ<br />
+**Accelerating Data Generation and Spatial Computing in Python**, Mohammad Mohajerani (NVIDIA)<br />
 **Panel**<br />
 
 ### Organizers
