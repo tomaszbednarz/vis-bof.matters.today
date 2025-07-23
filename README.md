@@ -13,7 +13,9 @@ Interest Areas: Art and Design, Gaming and Interactive, New Technologies, VR/XR,
 
 ### Tentative Schedule
 **Welcome to BoF**, Tomasz, Bill and AJ<br />
+**TBC**, Stephan Zellmann (University of Cologne)<br />
 **Accelerating Data Generation and Spatial Computing in Python**, Mohammad Mohajerani (NVIDIA)<br />
+**TBC**, Simon Su (NIST)<br />
 **Panel**<br />
 
 ### Organizers
