@@ -16,8 +16,8 @@ Interest Areas: Art and Design, Gaming and Interactive, New Technologies, VR/XR,
 **TBC**, Stephan Zellmann (University of Cologne)<br />
 **Accelerating Data Generation and Spatial Computing in Python**, Mohammad Mohajerani (NVIDIA)<br />
 **TBC**, Simon Su (NIST)<br />
+**Life-Life Immersive Stories and Volumetric Video Production**, Richard Broadbridge (4Dviews)<br />
 **Q&A Panel**<br />
-<!-- TB confiming Richard Broadbridge (4Dviews) -->
 
 ### Organizers
 
