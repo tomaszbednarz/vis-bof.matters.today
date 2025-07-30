@@ -1,4 +1,4 @@
-Traditionally (and since 2014), this session is about immersive visualization systems, software, and tools for science, research, scientific visualization, information visualization, art, design and digital twins. Invited speakers and panelists discuss newest initiatives and developments in immersive space as applied to data exploration, scientific discoveries, and more.
+Traditionally (and since 2014), this session is about immersive visualization, simulation, software, and tools for science, research, scientific visualization, information visualization, art, design and digital twins. Invited speakers and panelists discuss newest initiatives and developments in immersive space as applied to simulation data exploration, scientific discoveries, and more.
 
 ### Time and Location
 
