@@ -18,6 +18,7 @@ Interest Areas: Art and Design, Gaming and Interactive, New Technologies, VR/XR,
 **Planet Falconia: Using ParaView as a tool for Image Processing of Remote Sensing Data Through Immersive Visualization**, Simon Su (NIST)<br />
 **AI for scientific Data Analysis and Visualization**, Han-Wei (The Ohio State University)<br />
 **Life-Life Immersive Stories and Volumetric Video Production**, Richard Broadbridge (4Dviews)<br />
+**TBD**, Frank Summers (Space Telescope Science Institute)<br />
 **Q&A Panel**<br />
 
 ### Organizers
