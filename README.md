@@ -26,7 +26,7 @@ Interest Areas: Art and Design, Gaming and Interactive, New Technologies, VR/XR,
 **Tomasz Bednarz** (NVIDIA, USA)<br />
 **William Sherman** (NIST, USA)<br />
 **AJ Christensen** (NASA, USA)<br />
-**Angus Forbes**, (NVIDIA, USA)<br />
+**Angus Forbes** (NVIDIA, USA)<br />
 
 For more information, please e-mail:<br />
 [tomasz.bednarz at siggraph.org](mailto:tomasz.bednarz@siggraph.org)
