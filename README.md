@@ -5,7 +5,7 @@ Traditionally (and since 2014), this session is about immersive visualization, s
 Thursday, 14 August 2025<br />
 8:00 - 9:30am PDT<br />
 
-Location: TBC (check link below)
+Location: [East Building, Room 8](https://s2025.conference-schedule.org/?post_type=page&p=20&location=rEast-Building-Room-8)
 
 Interest Areas: Art and Design, Gaming and Interactive, New Technologies, VR/XR, Research and Education
 
