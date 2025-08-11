@@ -31,6 +31,10 @@ Interest Areas: Art and Design, Gaming and Interactive, New Technologies, VR/XR,
 For more information, please e-mail:<br />
 [tomasz.bednarz at siggraph.org](mailto:tomasz.bednarz@siggraph.org)
 
+### Another BoFs
+
+You might also be interested in [Immersive Visualisation for Science, Research, Art, Simulation and Digital Twins Applications](https://vis-bof.matters.today) BoF.
+
 ### Previous Years
 
 [2014](http://immersive-visualisation.blogspot.com/2014)
