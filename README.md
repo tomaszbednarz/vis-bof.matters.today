@@ -33,7 +33,7 @@ For more information, please e-mail:<br />
 
 ### Another BoFs
 
-You might also be interested in [Immersive Visualisation for Science, Research, Art, Simulation and Digital Twins Applications](https://vis-bof.matters.today) BoF.
+You might also be interested in [Generative AI for Graphics, Vision and 3D](https://generative-ai-bof.matters.today) BoF.
 
 ### Previous Years
 
