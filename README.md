@@ -9,7 +9,7 @@ Location: Hong Kong
 
 Interest Areas: Art and Design, Gaming and Interactive, New Technologies, VR/XR, Research and Education
 
-[SIGGRAPH Asia 2025 BoF Link TBC]()
+[SIGGRAPH Asia 2025 BoF Link TBC](https://asia.siggraph.org/2025/)
 
 ### Tentative Schedule
 **Welcome to BoF**, Tomasz<br />
