@@ -18,6 +18,7 @@ Interest Areas: Art and Design, Gaming and Interactive, New Technologies, VR/XR,
 ### Organizers
 
 **Tomasz Bednarz** (NVIDIA, USA)<br />
+**Frank Guan** (Singapore Institute of Technology, Singapore)<br />
 
 For more information, please e-mail:<br />
 [tomasz.bednarz at siggraph.org](mailto:tomasz.bednarz@siggraph.org)
