@@ -2,18 +2,18 @@ Traditionally (and since 2014), this session is about immersive visualization, s
 
 ### Time and Location
 
-Thursday, 15 December 2025<br />
-Time: TBC<br />
+Monday, 15 December 2025<br />
+Time: 1-2pm<br />
 
-Location: Hong Kong
+Location: [Meeting Room S224/S225, Level 2](https://sa2025.conference-schedule.org/?post_type=page&p=21&location=rMeeting-Room-S224S225-Level-2)
 
 Interest Areas: Art and Design, Gaming and Interactive, New Technologies, VR/XR, Research and Education
 
-[SIGGRAPH Asia 2025 BoF Link TBC](https://asia.siggraph.org/2025/)
+[SIGGRAPH Asia 2025 BoF Link](https://sa2025.conference-schedule.org/presentation/?id=bof_102&sess=sess274)
 
 ### Tentative Schedule
 **Welcome to BoF**, Tomasz<br />
-**Q&A Panel**<br />
+**Q&A Panel**, Frank<br />
 
 ### Organizers
 
