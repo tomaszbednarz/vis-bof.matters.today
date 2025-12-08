@@ -13,6 +13,7 @@ Interest Areas: Art and Design, Gaming and Interactive, New Technologies, VR/XR,
 
 ### Tentative Schedule
 **Welcome to BoF**, Tomasz<br />
+**TBC**, Neil Trevett (Khronos Group)<br />
 **TBC**, Frank Guan (Singapore Institute of Technology, Singapore)<br />
 **Q&A Panel**, Frank<br />
 
