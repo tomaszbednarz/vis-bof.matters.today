@@ -2,7 +2,7 @@ Traditionally (and since 2014), this session is about immersive visualization, s
 
 ### Time and Location
 
-Monday, 15 December 2025<br />
+Monday, 15 December 2025<br /> 
 Time: 1-2pm<br />
 
 Location: [Meeting Room S224/S225, Level 2](https://sa2025.conference-schedule.org/?post_type=page&p=21&location=rMeeting-Room-S224S225-Level-2)
