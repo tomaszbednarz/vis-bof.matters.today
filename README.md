@@ -14,6 +14,7 @@ Interest Areas: Art and Design, Gaming and Interactive, New Technologies, VR/XR,
 ### Tentative Schedule
 **Welcome to BoF**, Tomasz<br />
 **TBC**, Neil Trevett (Khronos Group)<br />
+**Insight of Urban Development Through Steet Names**, Henry Duh (The Hong Kong Polytechnic University)<br />
 **TBC**, Frank Guan (Singapore Institute of Technology, Singapore)<br />
 **The Expanded Conference on Animation and Interactive Art**, Juergen Hagler (University of Applied Sciences Upper Austria)<br />
 ...<br />
