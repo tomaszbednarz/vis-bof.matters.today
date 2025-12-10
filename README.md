@@ -17,6 +17,7 @@ Interest Areas: Art and Design, Gaming and Interactive, New Technologies, VR/XR,
 **Weaving Immersive Futures: A Personal Journey Across Data, Immersive Displays, and Intelligent 3D Worlds**, Frank Guan (Singapore Institute of Technology, Singapore)<br />
 **Updates on Khronos Open Standards for Visualization**, Neil Trevett (Khronos Group)<br />
 **The Expanded Conference on Animation and Interactive Art**, Juergen Hagler (University of Applied Sciences Upper Austria)<br />
+**Presence, Immersion, and the Design of Future Realities**, Eugene Ch'ng (Beijing Normal-Hong Kong Baptist University)<br />
 **Q&A Panel**, Frank<br />
 
 ### Organizers
