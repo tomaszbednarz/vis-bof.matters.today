@@ -13,9 +13,9 @@ Interest Areas: Art and Design, Gaming and Interactive, New Technologies, VR/XR,
 
 ### Tentative Schedule
 **Welcome to BoF**, Tomasz<br />
-**TBC**, Neil Trevett (Khronos Group)<br />
 **Insight of Urban Development Through Steet Names**, Henry Duh (The Hong Kong Polytechnic University)<br />
 **Weaving Immersive Futures: A Personal Journey Across Data, Immersive Displays, and Intelligent 3D Worlds**, Frank Guan (Singapore Institute of Technology, Singapore)<br />
+**Updates on Khronos Open Standards for Visualization**, Neil Trevett (Khronos Group)<br />
 **The Expanded Conference on Animation and Interactive Art**, Juergen Hagler (University of Applied Sciences Upper Austria)<br />
 **Q&A Panel**, Frank<br />
 
