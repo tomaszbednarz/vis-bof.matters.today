@@ -15,7 +15,7 @@ Interest Areas: Art and Design, Gaming and Interactive, New Technologies, VR/XR,
 **Welcome to BoF**, Tomasz<br />
 
 **Beyond Visualization: Physics as Data for Humans and AI - From scientific computing and CAE to robotics simulation and embodied intelligence**, Mohammad Mohajerani (NVIDIA)<br />
-Visualization is no longer just a tool for human understanding. Increasingly, rendered images, depth maps, and synthetic sensor streams serve as training and evaluation data for embodied AI systems. This BOF explores the convergence of scientific visualization, simulation, robotics, and physical AI, from CAD and CAE workflows to synthetic sensor generation and robot learning. Using examples from Warp and Newton, we will discuss how modern simulation and visualization stacks are evolving to serve both human insight and machine intelligence.
+*Visualization is no longer just a tool for human understanding. Increasingly, rendered images, depth maps, and synthetic sensor streams serve as training and evaluation data for embodied AI systems. This BOF explores the convergence of scientific visualization, simulation, robotics, and physical AI, from CAD and CAE workflows to synthetic sensor generation and robot learning. Using examples from Warp and Newton, we will discuss how modern simulation and visualization stacks are evolving to serve both human insight and machine intelligence.*
 
 **Q&A Panel**, Bill<br />
 
