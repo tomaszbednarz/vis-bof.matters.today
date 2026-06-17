@@ -1,29 +1,29 @@
-Traditionally (and since 2014), this session is about immersive visualization, simulation, software, and tools for science, research, scientific visualization, information visualization, art, design and digital twins. Invited speakers and panelists discuss newest initiatives and developments in immersive space as applied to simulation data exploration, scientific discoveries, and more.
+Traditionally (and since 2014), this session is about immersive visualization systems, software, and tools for science, research, scientific visualization, information visualization, art, design and digital twins. Invited speakers and panelists discuss newest initiatives and developments in immersive space as applied to data exploration, scientific discoveries, and more.
 
 ### Time and Location
 
-Monday, 15 December 2025<br /> 
-Time: 1-2pm<br />
+Monday, 20 July 2026<br /> 
+Time: 8-9:30am<br />
 
-Location: [Meeting Room S224/S225, Level 2](https://sa2025.conference-schedule.org/?post_type=page&p=21&location=rMeeting-Room-S224S225-Level-2)
+Location: Room 513
 
-Interest Areas: Art and Design, Gaming and Interactive, New Technologies, VR/XR, Research and Education
+Interest Areas: Art and Design, Gaming and Interactive, New Technologies, VR/XR, Research and Education, Simulation
 
-[SIGGRAPH Asia 2025 BoF Link](https://sa2025.conference-schedule.org/presentation/?id=bof_102&sess=sess274)
+[SIGGRAPH 2026 BoF Link](https://s2026.conference-schedule.org/presentation/?id=bof_105&sess=sess288)
 
 ### Tentative Schedule
 **Welcome to BoF**, Tomasz<br />
-**Insight of Urban Development Through Steet Names**, Henry Duh (The Hong Kong Polytechnic University)<br />
-**Weaving Immersive Futures: A Personal Journey Across Data, Immersive Displays, and Intelligent 3D Worlds**, Frank Guan (Singapore Institute of Technology, Singapore)<br />
-**Updates on Khronos Open Standards for Visualization**, Neil Trevett (Khronos Group)<br />
-**The Expanded Conference on Animation and Interactive Art**, Juergen Hagler (University of Applied Sciences Upper Austria)<br />
-**Presence, Immersion, and the Design of Future Realities**, Eugene Ch'ng (Beijing Normal-Hong Kong Baptist University)<br />
-**Q&A Panel**, Frank<br />
+
+**Beyond Visualization: Physics as Data for Humans and AI - From scientific computing and CAE to robotics simulation and embodied intelligence**, Mohammad Mohajerani (NVIDIA)<br />
+Visualization is no longer just a tool for human understanding. Increasingly, rendered images, depth maps, and synthetic sensor streams serve as training and evaluation data for embodied AI systems. This BOF explores the convergence of scientific visualization, simulation, robotics, and physical AI, from CAD and CAE workflows to synthetic sensor generation and robot learning. Using examples from Warp and Newton, we will discuss how modern simulation and visualization stacks are evolving to serve both human insight and machine intelligence.
+
+**Q&A Panel**, Bill<br />
 
 ### Organizers
 
 **Tomasz Bednarz** (NVIDIA, USA)<br />
-**Frank Guan** (Singapore Institute of Technology, Singapore)<br />
+**William Sherman** (NIST, USA)<br />
+**AJ Christensen** (NASA, USA)<br />
 
 For more information, please e-mail:<br />
 [tomasz.bednarz at siggraph.org](mailto:tomasz.bednarz@siggraph.org)
@@ -49,3 +49,4 @@ You might also be interested in [Generative AI for Graphics, Vision and 3D](http
 [S2024](/s2024.html)
 [SA2024](/sa2024.html)
 [S2025](/s2025.html)
+[SA2025](/s2025.html)
