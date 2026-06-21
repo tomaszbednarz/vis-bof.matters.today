@@ -17,6 +17,9 @@ Interest Areas: Art and Design, Gaming and Interactive, New Technologies, VR/XR,
 **Beyond Visualization: Physics as Data for Humans and AI - From scientific computing and CAE to robotics simulation and embodied intelligence**, Mohammad Mohajerani (NVIDIA)<br />
 *Visualization is no longer just a tool for human understanding. Increasingly, rendered images, depth maps, and synthetic sensor streams serve as training and evaluation data for embodied AI systems. This BOF explores the convergence of scientific visualization, simulation, robotics, and physical AI, from CAD and CAE workflows to synthetic sensor generation and robot learning. Using examples from Warp and Newton, we will discuss how modern simulation and visualization stacks are evolving to serve both human insight and machine intelligence.*
 
+**Does Data Matter? What Audiences Infer about Data and AI in Cinematic Scientific Visualizations**, Kalina Borkiewicz<br />
+*Our recent N=961 study found that data doesn't matter nearly as much as we hoped it would. The general public often does not understand what "data" means in 3D contexts, readily assumes high-quality scientific rendering is AI-generated (even when it isn't), and becomes less trusting, less curious, and less impressed as perceived AI involvement increases. This talk discusses our research study, and its implications.*
+
 **Q&A Panel**, Bill<br />
 
 ### Organizers
