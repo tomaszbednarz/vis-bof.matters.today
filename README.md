@@ -20,6 +20,11 @@ Interest Areas: Art and Design, Gaming and Interactive, New Technologies, VR/XR,
 **Does Data Matter? What Audiences Infer about Data and AI in Cinematic Scientific Visualizations**, Kalina Borkiewicz<br />
 *Our recent N=961 study found that data doesn't matter nearly as much as we hoped it would. The general public often does not understand what "data" means in 3D contexts, readily assumes high-quality scientific rendering is AI-generated (even when it isn't), and becomes less trusting, less curious, and less impressed as perceived AI involvement increases. This talk discusses our research study, and its implications.*
 
+**Spatial communication of scientific data in collaborative XR environments**, George Takahashi<br/>
+
+**Immersive Digital Twin Collaborative Visual Analytics for Forensic LiDAR Scene Exploration: AI-Augmented, Explainable, and Cross-Reality**, Simon Su<br/>
+*Modern crime scene investigation increasingly relies on 3D LiDAR scanning to capture forensic environments with millimeter-level precision, yet no integrated platform exists to transform this complex point-cloud data into an actionable investigative tool. This project is developing ForensiTwin — a Forensic Digital Twin Collaborative Immersive Visual Analytics system that unifies LiDAR-derived 3D data, physics-based forensic simulation, and AI/ML- assisted evidence detection into a single purpose-built platform.
+
 **Q&A Panel**, Bill<br />
 
 ### Organizers
