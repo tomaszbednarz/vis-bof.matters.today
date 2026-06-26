@@ -14,6 +14,9 @@ Interest Areas: Art and Design, Gaming and Interactive, New Technologies, VR/XR,
 ### Tentative Schedule
 **Welcome to BoF**, Tomasz<br />
 
+**Splat Garden: Immersive Experience with Real-Time Simulation**, Itim Kongsakulvatanasook (SCAD)<br />
+*This research expands into four interconnected areas: AI Tools, 3DGS, VAT, and Interaction, all under the theme of Real-Time visualization and simulation. We place particular emphasis on how AI and tool development accelerate production pipelines, while continuing to push deeper into 3DGS and interactive systems. **Other contributors**: Danci Shen, Yiqi Zheng, Yiyi Long, Yichen Shi, Ben Jones, and Xinyi Liang.*
+
 **Beyond Visualization: Physics as Data for Humans and AI - From scientific computing and CAE to robotics simulation and embodied intelligence**, Mohammad Mohajerani (NVIDIA)<br />
 *Visualization is no longer just a tool for human understanding. Increasingly, rendered images, depth maps, and synthetic sensor streams serve as training and evaluation data for embodied AI systems. This BOF explores the convergence of scientific visualization, simulation, robotics, and physical AI, from CAD and CAE workflows to synthetic sensor generation and robot learning. Using examples from Warp and Newton, we will discuss how modern simulation and visualization stacks are evolving to serve both human insight and machine intelligence.*
 
