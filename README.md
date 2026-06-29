@@ -25,6 +25,8 @@ Interest Areas: Art and Design, Gaming and Interactive, New Technologies, VR/XR,
 
 **Spatial communication of scientific data in collaborative XR environments**, George Takahashi<br/>
 
+**Earth Information Center**, Trent Schindler(NASA)<br/>
+
 **Immersive Digital Twin Collaborative Visual Analytics for Forensic LiDAR Scene Exploration: AI-Augmented, Explainable, and Cross-Reality**, Simon Su<br/>
 *Modern crime scene investigation increasingly relies on 3D LiDAR scanning to capture forensic environments with millimeter-level precision, yet no integrated platform exists to transform this complex point-cloud data into an actionable investigative tool. This project is developing ForensiTwin — a Forensic Digital Twin Collaborative Immersive Visual Analytics system that unifies LiDAR-derived 3D data, physics-based forensic simulation, and AI/ML- assisted evidence detection into a single purpose-built platform.
 
