@@ -24,6 +24,7 @@ Interest Areas: Art and Design, Gaming and Interactive, New Technologies, VR/XR,
 *Our recent N=961 study found that data doesn't matter nearly as much as we hoped it would. The general public often does not understand what "data" means in 3D contexts, readily assumes high-quality scientific rendering is AI-generated (even when it isn't), and becomes less trusting, less curious, and less impressed as perceived AI involvement increases. This talk discusses our research study, and its implications.*
 
 **Spatial communication of scientific data in collaborative XR environments**, George Takahashi<br/>
+Communicating spatial concepts about complex 3D scientific data presents a challenge in the classroom environment. Similar to the use of physical miniature models in architectural design, being able to intuitively point and gesture around 3D materials can drastically improve communication between groups with varied ranges of experience and understanding. In an effort to foster classroom discussion, exploration, and discovery, we developed an open-source collaborative mixed reality platform called CollabXR.
 
 **Earth Information Center**, Trent Schindler(NASA)<br/>
 
