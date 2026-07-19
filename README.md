@@ -29,7 +29,8 @@ Communicating spatial concepts about complex 3D scientific data presents a chall
 **Visualization in the Round - a showcase of spherically-presented data visualizations from NASA's Scientific Visualization Studio**, Trent Schindler (NASA)<br/>
 Over its history NASA's Scientific Visualization Studio has produced science visualizations for a number of spherically-formated platforms, such as Science on a Sphere and planetarium dome shows. Here we will briefly highlight a few of our recent projects, which have both raised the public visibility of this type of content and created challenges unique to the spherical format.
 
-**Astronomy Visualization**, Robert Hurt (Caltech/IPAC)<br/>
+**Immersive Astronomy experiences in Blender**, Robert Hurt (Caltech/IPAC)<br/>
+Blender has become a powerful procedural tool for science illustration and data visualization. This talk features several astronomy examples for science communication.
 
 **Immersive Digital Twin Collaborative Visual Analytics for Forensic LiDAR Scene Exploration: AI-Augmented, Explainable, and Cross-Reality**, Simon Su<br/>
 *Modern crime scene investigation increasingly relies on 3D LiDAR scanning to capture forensic environments with millimeter-level precision, yet no integrated platform exists to transform this complex point-cloud data into an actionable investigative tool. This project is developing ForensiTwin — a Forensic Digital Twin Collaborative Immersive Visual Analytics system that unifies LiDAR-derived 3D data, physics-based forensic simulation, and AI/ML- assisted evidence detection into a single purpose-built platform.
