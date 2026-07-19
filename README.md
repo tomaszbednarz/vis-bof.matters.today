@@ -12,7 +12,7 @@ Interest Areas: Art and Design, Gaming and Interactive, New Technologies, VR/XR,
 [SIGGRAPH 2026 BoF Link](https://s2026.conference-schedule.org/presentation/?id=bof_105&sess=sess288)
 
 ### Tentative Schedule
-**Welcome to BoF**, Tomasz<br />
+**Welcome to BoF**, Pallavi, Bill, AJ<br />
 
 **Splat Garden: Immersive Experience with Real-Time Simulation**, Itim Kongsakulvatanasook (SCAD)<br />
 *This research expands into four interconnected areas: AI Tools, 3DGS, VAT, and Interaction, all under the theme of Real-Time visualization and simulation. We place particular emphasis on how AI and tool development accelerate production pipelines, while continuing to push deeper into 3DGS and interactive systems. **Other contributors**: Danci Shen, Yiqi Zheng, Yiyi Long, Yichen Shi, Ben Jones, and Xinyi Liang.*
@@ -39,6 +39,7 @@ Over its history NASA's Scientific Visualization Studio has produced science vis
 **Tomasz Bednarz** (NVIDIA, USA)<br />
 **William Sherman** (NIST, USA)<br />
 **AJ Christensen** (NASA, USA)<br />
+**Pallavi Mohan** (NVIDIA, Germany)<br />
 
 For more information, please e-mail:<br />
 [tomasz.bednarz at siggraph.org](mailto:tomasz.bednarz@siggraph.org)
