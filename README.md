@@ -11,7 +11,7 @@ Interest Areas: Art and Design, Gaming and Interactive, New Technologies, VR/XR,
 
 [SIGGRAPH 2026 BoF Link](https://s2026.conference-schedule.org/presentation/?id=bof_105&sess=sess288)
 
-### Tentative Schedule
+### Schedule
 **Welcome to BoF**, Pallavi, Bill, AJ<br />
 
 **Splat Garden: Immersive Experience with Real-Time Simulation**, Itim Kongsakulvatanasook (SCAD)<br />
