@@ -17,9 +17,6 @@ Interest Areas: Art and Design, Gaming and Interactive, New Technologies, VR/XR,
 **Splat Garden: Immersive Experience with Real-Time Simulation**, Itim Kongsakulvatanasook (SCAD)<br />
 *This research expands into four interconnected areas: AI Tools, 3DGS, VAT, and Interaction, all under the theme of Real-Time visualization and simulation. We place particular emphasis on how AI and tool development accelerate production pipelines, while continuing to push deeper into 3DGS and interactive systems. **Other contributors**: Danci Shen, Yiqi Zheng, Yiyi Long, Yichen Shi, Ben Jones, and Xinyi Liang.*
 
-**Beyond Visualization: Physics as Data for Humans and AI - From scientific computing and CAE to robotics simulation and embodied intelligence**, Mohammad Mohajerani (NVIDIA)<br />
-*Visualization is no longer just a tool for human understanding. Increasingly, rendered images, depth maps, and synthetic sensor streams serve as training and evaluation data for embodied AI systems. This BOF explores the convergence of scientific visualization, simulation, robotics, and physical AI, from CAD and CAE workflows to synthetic sensor generation and robot learning. Using examples from Warp and Newton, we will discuss how modern simulation and visualization stacks are evolving to serve both human insight and machine intelligence.*
-
 **Does Data Matter? What Audiences Infer about Data and AI in Cinematic Scientific Visualizations**, Kalina Borkiewicz<br />
 *Our recent N=961 study found that data doesn't matter nearly as much as we hoped it would. The general public often does not understand what "data" means in 3D contexts, readily assumes high-quality scientific rendering is AI-generated (even when it isn't), and becomes less trusting, less curious, and less impressed as perceived AI involvement increases. This talk discusses our research study, and its implications.*
 
@@ -31,6 +28,9 @@ Over its history NASA's Scientific Visualization Studio has produced science vis
 
 **Immersive Astronomy experiences in Blender**, Robert Hurt (Caltech/IPAC)<br/>
 Blender has become a powerful procedural tool for science illustration and data visualization. This talk features several astronomy examples for science communication.
+
+**Beyond Visualization: Physics as Data for Humans and AI - From scientific computing and CAE to robotics simulation and embodied intelligence**, Mohammad Mohajerani (NVIDIA)<br />
+*Visualization is no longer just a tool for human understanding. Increasingly, rendered images, depth maps, and synthetic sensor streams serve as training and evaluation data for embodied AI systems. This BOF explores the convergence of scientific visualization, simulation, robotics, and physical AI, from CAD and CAE workflows to synthetic sensor generation and robot learning. Using examples from Warp and Newton, we will discuss how modern simulation and visualization stacks are evolving to serve both human insight and machine intelligence.*
 
 **Immersive Digital Twin Collaborative Visual Analytics for Forensic LiDAR Scene Exploration: AI-Augmented, Explainable, and Cross-Reality**, Simon Su<br/>
 *Modern crime scene investigation increasingly relies on 3D LiDAR scanning to capture forensic environments with millimeter-level precision, yet no integrated platform exists to transform this complex point-cloud data into an actionable investigative tool. This project is developing ForensiTwin — a Forensic Digital Twin Collaborative Immersive Visual Analytics system that unifies LiDAR-derived 3D data, physics-based forensic simulation, and AI/ML- assisted evidence detection into a single purpose-built platform.
