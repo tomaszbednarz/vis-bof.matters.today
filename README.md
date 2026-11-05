@@ -13,8 +13,9 @@ SIGGRAPH Asia 2026 BoF Link, TBC
 
 ### Schedule
 **Welcome to BoF**, Tomasz<br />
-**Immersive Digital Twin for Forensic Science**, Simon Su (National Institute of Standards and Technology)<br />
-**Immersive Technology for Factory Safety Training**, Tuan Roon Loy (Virtual Logic Sdn. Bhd.)<br />
+**Immersive Digital Twin for Forensic Science**, Simon Su (National Institute of Standards and Technology, US)<br />
+**Immersive Technology for Factory Safety Training**, Tuan Roon Loy (Virtual Logic Sdn. Bhd., Kuala Lumpur)<br />
+**Immersive Technology for High School Teaching**, Zachary Kingman (Poolesville High School, US)<br />
 **Q&A Panel**, Tomasz and Simon<br />
 
 ### Organizers
